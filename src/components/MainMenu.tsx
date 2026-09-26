@@ -336,56 +336,54 @@ export const MainMenu: React.FC<MainMenuProps> = ({
           </div>
         </div>
 
-        {/* Showy Arcade/Snake Title with Pulsing Yellow Neon Backlight */}
+        {/* Connected Circle Segments Title (Each letter inside adjacent blue/orange circles) */}
         <div className="relative flex flex-col items-center mt-1 mb-2">
-          {/* Glowing Yellow Neon Backlight Aura */}
           <div
-            className="absolute inset-x-[-15%] top-[-25%] bottom-[-25%] rounded-full blur-3xl opacity-70 pointer-events-none animate-pulse"
+            className="flex items-center justify-center flex-wrap gap-y-2 select-none transform-gpu hover:scale-105 transition-transform"
             style={{
-              background: 'radial-gradient(ellipse at center, rgba(250, 204, 21, 0.75) 0%, rgba(234, 179, 8, 0.45) 45%, transparent 75%)',
+              fontFamily: "'Lilita One', 'Luckiest Guy', 'Fredoka', cursive, sans-serif",
             }}
-          />
+          >
+            {(() => {
+              const words = t.mainMenu.gameTitle.split(' ');
+              let globalLetterIndex = 0;
 
-          {/* Stylized 3D Punchy Arcade Snake Logo */}
-          <div className="relative transform-gpu transition-transform hover:scale-105 duration-300" style={{ perspective: '800px' }}>
-            {/* Dark 3D Base Shadow Extrusion Layer */}
-            <h1
-              className="absolute inset-0 text-4xl sm:text-5xl font-black uppercase tracking-wider text-blue-950 opacity-90 select-none pointer-events-none"
-              style={{
-                fontFamily: "'Fredoka', 'Righteous', 'Bungee', sans-serif",
-                letterSpacing: '0.05em',
-                transform: 'translateY(5px) scaleY(1.02) rotateX(10deg)',
-                filter: 'blur(1px)',
-              }}
-              aria-hidden="true"
-            >
-              {t.mainMenu.gameTitle}
-            </h1>
+              return words.map((word, wordIdx) => (
+                <div key={wordIdx} className="flex items-center -space-x-1.5 sm:-space-x-2 mx-1 sm:mx-1.5">
+                  {word.split('').map((char, charIdx) => {
+                    const isBlue = globalLetterIndex % 2 === 0;
+                    const isC = char.toUpperCase() === 'C';
+                    globalLetterIndex++;
 
-            {/* Front 3D Extruded Gradient Layer (Clean single-piece letters, no stroke lines) */}
-            <h1
-              className="relative text-4xl sm:text-5xl font-black uppercase tracking-wider text-transparent bg-clip-text bg-gradient-to-b from-sky-200 via-blue-400 to-indigo-600 transform-gpu"
-              style={{
-                fontFamily: "'Fredoka', 'Righteous', 'Bungee', sans-serif",
-                letterSpacing: '0.05em',
-                transform: 'rotateX(8deg)',
-                textShadow: `
-                  0 1px 0 #2563eb,
-                  0 2px 0 #1d4ed8,
-                  0 3px 0 #1e40af,
-                  0 4px 0 #1e3a8a,
-                  0 5px 0 #0f172a,
-                  0 6px 1px rgba(0,0,0,0.6),
-                  0 0 25px rgba(56,189,248,0.8),
-                  0 10px 30px rgba(0,0,0,0.9)
-                `,
-              }}
-            >
-              {t.mainMenu.gameTitle}
-            </h1>
+                    return (
+                      <div
+                        key={charIdx}
+                        className={`relative rounded-full flex items-center justify-center border-2 border-slate-900/80 shadow-lg transition-transform ${
+                          isC ? 'w-12 h-12 sm:w-14 sm:h-14 z-20 scale-105' : 'w-8 h-8 sm:w-10 sm:h-10 z-10'
+                        } ${
+                          isBlue
+                            ? 'bg-gradient-to-br from-sky-400 via-blue-600 to-indigo-700 text-white'
+                            : 'bg-gradient-to-br from-amber-300 via-orange-500 to-rose-600 text-white'
+                        }`}
+                      >
+                        {/* Glossy Top Arc */}
+                        <div className="absolute inset-x-1 top-0.5 h-1/2 rounded-t-full bg-gradient-to-b from-white/35 to-transparent pointer-events-none" />
+                        <span
+                          className={`relative font-black drop-shadow-[0_1.5px_2px_rgba(0,0,0,0.7)] ${
+                            isC ? 'text-[28px] sm:text-[32px]' : 'text-base sm:text-xl'
+                          }`}
+                        >
+                          {char}
+                        </span>
+                      </div>
+                    );
+                  })}
+                </div>
+              ));
+            })()}
           </div>
 
-          <p className="text-xs sm:text-sm text-slate-300 font-semibold mt-1 max-w-xs leading-relaxed drop-shadow-md">
+          <p className="text-xs sm:text-sm text-slate-300 font-semibold mt-2 max-w-xs leading-relaxed drop-shadow-md">
             {t.mainMenu.gameTagline}
           </p>
         </div>

@@ -95,6 +95,7 @@ export interface SpeciesInfo {
   themeHue: string;
   accentColor: string;
   glowColor: string;
+  darkRingColor?: string;
   bgRgba: string;
 }
 

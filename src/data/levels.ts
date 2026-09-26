@@ -277,14 +277,14 @@ export const GAME_LEVELS: LevelData[] = [
       {
         "id": "star_1",
         "x": 5,
-        "y": 10,
+        "y": 11,
         "color": "yellow",
         "collected": false
       },
       {
         "id": "star_2",
-        "x": 0,
-        "y": 0,
+        "x": 2,
+        "y": 1,
         "color": "orange",
         "collected": false
       }
@@ -733,7 +733,7 @@ export const GAME_LEVELS: LevelData[] = [
       },
       {
         "id": "star_2",
-        "x": 0,
+        "x": 1,
         "y": 0,
         "color": "green",
         "collected": false
@@ -2779,7 +2779,7 @@ export const GAME_LEVELS: LevelData[] = [
       {
         "id": "star_2",
         "x": 4,
-        "y": 9,
+        "y": 10,
         "color": "blue",
         "collected": false
       },
@@ -2894,8 +2894,8 @@ export const GAME_LEVELS: LevelData[] = [
     "energyObjects": [
       {
         "id": "star_1",
-        "x": 5,
-        "y": 10,
+        "x": 4,
+        "y": 11,
         "color": "cyan",
         "collected": false
       },
@@ -4024,8 +4024,8 @@ export const GAME_LEVELS: LevelData[] = [
     "energyObjects": [
       {
         "id": "star_2",
-        "x": 4,
-        "y": 9,
+        "x": 3,
+        "y": 8,
         "color": "blue",
         "collected": false
       }
@@ -5057,7 +5057,7 @@ export const GAME_LEVELS: LevelData[] = [
     "energyObjects": [
       {
         "id": "star_1",
-        "x": 1,
+        "x": 0,
         "y": 1,
         "color": "purple",
         "collected": false
@@ -5396,7 +5396,7 @@ export const GAME_LEVELS: LevelData[] = [
       {
         "id": "star_4",
         "x": 2,
-        "y": 1,
+        "y": 0,
         "color": "pink",
         "collected": false
       }
@@ -5858,8 +5858,8 @@ export const GAME_LEVELS: LevelData[] = [
       },
       {
         "id": "star_2",
-        "x": 5,
-        "y": 1,
+        "x": 4,
+        "y": 0,
         "color": "red",
         "collected": false
       },
@@ -6193,7 +6193,7 @@ export const GAME_LEVELS: LevelData[] = [
       {
         "id": "star_2",
         "x": 4,
-        "y": 0,
+        "y": 1,
         "color": "yellow",
         "collected": false
       }
@@ -7437,7 +7437,7 @@ export const GAME_LEVELS: LevelData[] = [
       },
       {
         "id": "star_2",
-        "x": 5,
+        "x": 4,
         "y": 1,
         "color": "pink",
         "collected": false
@@ -7614,13 +7614,13 @@ export const GAME_LEVELS: LevelData[] = [
       {
         "id": "star_2",
         "x": 0,
-        "y": 4,
+        "y": 3,
         "color": "purple",
         "collected": false
       },
       {
         "id": "star_3",
-        "x": 6,
+        "x": 5,
         "y": 11,
         "color": "cyan",
         "collected": false
@@ -7933,7 +7933,7 @@ export const GAME_LEVELS: LevelData[] = [
       {
         "id": "star_2",
         "x": 4,
-        "y": 0,
+        "y": 1,
         "color": "red",
         "collected": false
       },
@@ -9429,7 +9429,7 @@ export const GAME_LEVELS: LevelData[] = [
       },
       {
         "id": "star_2",
-        "x": 5,
+        "x": 4,
         "y": 1,
         "color": "red",
         "collected": false
@@ -9618,7 +9618,7 @@ export const GAME_LEVELS: LevelData[] = [
       {
         "id": "star_3",
         "x": 0,
-        "y": 4,
+        "y": 3,
         "color": "purple",
         "collected": false
       },
@@ -9631,7 +9631,7 @@ export const GAME_LEVELS: LevelData[] = [
       },
       {
         "id": "star_5",
-        "x": 6,
+        "x": 5,
         "y": 11,
         "color": "cyan",
         "collected": false
@@ -9972,7 +9972,7 @@ export const GAME_LEVELS: LevelData[] = [
       },
       {
         "id": "star_3",
-        "x": 4,
+        "x": 5,
         "y": 0,
         "color": "purple",
         "collected": false
@@ -10506,7 +10506,7 @@ export const GAME_LEVELS: LevelData[] = [
       },
       {
         "id": "star_3",
-        "x": 2,
+        "x": 1,
         "y": 0,
         "color": "pink",
         "collected": false
@@ -11589,7 +11589,7 @@ export const GAME_LEVELS: LevelData[] = [
       },
       {
         "id": "star_2",
-        "x": 5,
+        "x": 4,
         "y": 1,
         "color": "pink",
         "collected": false
@@ -11803,7 +11803,7 @@ export const GAME_LEVELS: LevelData[] = [
       {
         "id": "star_3",
         "x": 0,
-        "y": 4,
+        "y": 3,
         "color": "pink",
         "collected": false
       },
@@ -11816,7 +11816,7 @@ export const GAME_LEVELS: LevelData[] = [
       },
       {
         "id": "star_5",
-        "x": 6,
+        "x": 7,
         "y": 11,
         "color": "cyan",
         "collected": false
@@ -12207,7 +12207,7 @@ export const GAME_LEVELS: LevelData[] = [
       {
         "id": "star_3",
         "x": 4,
-        "y": 0,
+        "y": 1,
         "color": "purple",
         "collected": false
       },
@@ -12809,7 +12809,7 @@ export const GAME_LEVELS: LevelData[] = [
       {
         "id": "star_3",
         "x": 2,
-        "y": 0,
+        "y": 1,
         "color": "cyan",
         "collected": false
       },
@@ -13420,7 +13420,7 @@ export const GAME_LEVELS: LevelData[] = [
       {
         "id": "star_2",
         "x": 7,
-        "y": 1,
+        "y": 0,
         "color": "yellow",
         "collected": false
       },
@@ -13462,7 +13462,7 @@ export const GAME_LEVELS: LevelData[] = [
       {
         "id": "star_8",
         "x": 0,
-        "y": 7,
+        "y": 8,
         "color": "blue",
         "collected": false
       }
@@ -13821,8 +13821,8 @@ export const GAME_LEVELS: LevelData[] = [
     "energyObjects": [
       {
         "id": "star_1",
-        "x": 7,
-        "y": 4,
+        "x": 6,
+        "y": 3,
         "color": "cyan",
         "collected": false
       },
@@ -13864,7 +13864,7 @@ export const GAME_LEVELS: LevelData[] = [
       {
         "id": "star_7",
         "x": 0,
-        "y": 10,
+        "y": 9,
         "color": "blue",
         "collected": false
       },
@@ -14026,7 +14026,7 @@ export const GAME_LEVELS: LevelData[] = [
       },
       {
         "id": "star_2",
-        "x": 5,
+        "x": 4,
         "y": 1,
         "color": "red",
         "collected": false
@@ -14245,7 +14245,7 @@ export const GAME_LEVELS: LevelData[] = [
       {
         "id": "star_3",
         "x": 0,
-        "y": 4,
+        "y": 3,
         "color": "cyan",
         "collected": false
       },
@@ -14258,7 +14258,7 @@ export const GAME_LEVELS: LevelData[] = [
       },
       {
         "id": "star_5",
-        "x": 6,
+        "x": 7,
         "y": 11,
         "color": "pink",
         "collected": false
@@ -14638,7 +14638,7 @@ export const GAME_LEVELS: LevelData[] = [
       },
       {
         "id": "star_3",
-        "x": 4,
+        "x": 5,
         "y": 0,
         "color": "pink",
         "collected": false
@@ -14881,7 +14881,7 @@ export const GAME_LEVELS: LevelData[] = [
       },
       {
         "id": "star_8",
-        "x": 6,
+        "x": 7,
         "y": 11,
         "color": "purple",
         "collected": false
@@ -15240,7 +15240,7 @@ export const GAME_LEVELS: LevelData[] = [
       },
       {
         "id": "star_3",
-        "x": 2,
+        "x": 1,
         "y": 0,
         "color": "green",
         "collected": false

@@ -47,14 +47,6 @@ export const GAME_LEVELS: LevelData[] = [
           {
             "x": 7,
             "y": 7
-          },
-          {
-            "x": 7,
-            "y": 7
-          },
-          {
-            "x": 7,
-            "y": 7
           }
         ]
       }
@@ -233,10 +225,6 @@ export const GAME_LEVELS: LevelData[] = [
           {
             "x": 4,
             "y": 11
-          },
-          {
-            "x": 4,
-            "y": 11
           }
         ]
       },
@@ -357,8 +345,8 @@ export const GAME_LEVELS: LevelData[] = [
             "y": 6
           },
           {
-            "x": 5,
-            "y": 6
+            "x": 4,
+            "y": 7
           }
         ]
       }
@@ -579,14 +567,6 @@ export const GAME_LEVELS: LevelData[] = [
           {
             "x": 7,
             "y": 3
-          },
-          {
-            "x": 7,
-            "y": 3
-          },
-          {
-            "x": 7,
-            "y": 3
           }
         ]
       }
@@ -692,20 +672,16 @@ export const GAME_LEVELS: LevelData[] = [
             "y": 8
           },
           {
-            "x": 2,
+            "x": 3,
+            "y": 8
+          },
+          {
+            "x": 3,
             "y": 9
           },
           {
-            "x": 2,
+            "x": 3,
             "y": 10
-          },
-          {
-            "x": 2,
-            "y": 11
-          },
-          {
-            "x": 2,
-            "y": 11
           }
         ]
       }
@@ -1172,14 +1148,6 @@ export const GAME_LEVELS: LevelData[] = [
           {
             "x": 7,
             "y": 6
-          },
-          {
-            "x": 7,
-            "y": 6
-          },
-          {
-            "x": 7,
-            "y": 6
           }
         ]
       }
@@ -1478,10 +1446,6 @@ export const GAME_LEVELS: LevelData[] = [
           {
             "x": 7,
             "y": 2
-          },
-          {
-            "x": 7,
-            "y": 2
           }
         ]
       }
@@ -1601,8 +1565,8 @@ export const GAME_LEVELS: LevelData[] = [
             "y": 5
           },
           {
-            "x": 5,
-            "y": 5
+            "x": 4,
+            "y": 6
           }
         ]
       }
@@ -1838,14 +1802,6 @@ export const GAME_LEVELS: LevelData[] = [
           },
           {
             "x": 6,
-            "y": 2
-          },
-          {
-            "x": 7,
-            "y": 2
-          },
-          {
-            "x": 7,
             "y": 2
           },
           {
@@ -2161,12 +2117,12 @@ export const GAME_LEVELS: LevelData[] = [
             "y": 5
           },
           {
-            "x": 3,
-            "y": 6
+            "x": 2,
+            "y": 5
           },
           {
-            "x": 3,
-            "y": 7
+            "x": 1,
+            "y": 5
           }
         ]
       }
@@ -2290,8 +2246,8 @@ export const GAME_LEVELS: LevelData[] = [
             "y": 8
           },
           {
-            "x": 5,
-            "y": 8
+            "x": 4,
+            "y": 9
           }
         ]
       },
@@ -2330,8 +2286,8 @@ export const GAME_LEVELS: LevelData[] = [
             "y": 7
           },
           {
-            "x": 5,
-            "y": 7
+            "x": 4,
+            "y": 6
           }
         ]
       }
@@ -2575,14 +2531,6 @@ export const GAME_LEVELS: LevelData[] = [
           {
             "x": 7,
             "y": 5
-          },
-          {
-            "x": 7,
-            "y": 5
-          },
-          {
-            "x": 7,
-            "y": 5
           }
         ]
       },
@@ -2595,16 +2543,16 @@ export const GAME_LEVELS: LevelData[] = [
             "y": 8
           },
           {
-            "x": 1,
+            "x": 2,
+            "y": 8
+          },
+          {
+            "x": 2,
             "y": 9
           },
           {
-            "x": 1,
+            "x": 2,
             "y": 10
-          },
-          {
-            "x": 1,
-            "y": 11
           }
         ]
       }
@@ -2994,14 +2942,6 @@ export const GAME_LEVELS: LevelData[] = [
           {
             "x": 5,
             "y": 11
-          },
-          {
-            "x": 5,
-            "y": 11
-          },
-          {
-            "x": 5,
-            "y": 11
           }
         ]
       },
@@ -3338,14 +3278,6 @@ export const GAME_LEVELS: LevelData[] = [
           {
             "x": 7,
             "y": 8
-          },
-          {
-            "x": 7,
-            "y": 8
-          },
-          {
-            "x": 7,
-            "y": 8
           }
         ]
       },
@@ -3499,12 +3431,12 @@ export const GAME_LEVELS: LevelData[] = [
             "y": 8
           },
           {
-            "x": 2,
-            "y": 9
+            "x": 1,
+            "y": 8
           },
           {
-            "x": 2,
-            "y": 10
+            "x": 1,
+            "y": 9
           }
         ]
       },
@@ -3683,14 +3615,6 @@ export const GAME_LEVELS: LevelData[] = [
           {
             "x": 3,
             "y": 11
-          },
-          {
-            "x": 3,
-            "y": 11
-          },
-          {
-            "x": 3,
-            "y": 11
           }
         ]
       }
@@ -3829,8 +3753,8 @@ export const GAME_LEVELS: LevelData[] = [
             "y": 7
           },
           {
-            "x": 5,
-            "y": 7
+            "x": 4,
+            "y": 8
           }
         ]
       },
@@ -3866,10 +3790,6 @@ export const GAME_LEVELS: LevelData[] = [
           },
           {
             "x": 4,
-            "y": 6
-          },
-          {
-            "x": 5,
             "y": 6
           }
         ]
@@ -4156,14 +4076,6 @@ export const GAME_LEVELS: LevelData[] = [
           {
             "x": 7,
             "y": 4
-          },
-          {
-            "x": 7,
-            "y": 4
-          },
-          {
-            "x": 7,
-            "y": 4
           }
         ]
       },
@@ -4180,12 +4092,12 @@ export const GAME_LEVELS: LevelData[] = [
             "y": 8
           },
           {
-            "x": 1,
-            "y": 9
+            "x": 0,
+            "y": 8
           },
           {
-            "x": 1,
-            "y": 10
+            "x": 0,
+            "y": 9
           }
         ]
       },
@@ -4530,12 +4442,12 @@ export const GAME_LEVELS: LevelData[] = [
             "y": 7
           },
           {
-            "x": 3,
-            "y": 8
+            "x": 2,
+            "y": 7
           },
           {
-            "x": 3,
-            "y": 9
+            "x": 1,
+            "y": 7
           }
         ]
       },
@@ -4549,10 +4461,6 @@ export const GAME_LEVELS: LevelData[] = [
           },
           {
             "x": 6,
-            "y": 7
-          },
-          {
-            "x": 7,
             "y": 7
           },
           {
@@ -4674,10 +4582,6 @@ export const GAME_LEVELS: LevelData[] = [
           {
             "x": 5,
             "y": 10
-          },
-          {
-            "x": 5,
-            "y": 11
           },
           {
             "x": 5,
@@ -5040,14 +4944,6 @@ export const GAME_LEVELS: LevelData[] = [
           },
           {
             "x": 6,
-            "y": 7
-          },
-          {
-            "x": 7,
-            "y": 7
-          },
-          {
-            "x": 7,
             "y": 7
           },
           {
@@ -5561,8 +5457,8 @@ export const GAME_LEVELS: LevelData[] = [
             "y": 6
           },
           {
-            "x": 5,
-            "y": 6
+            "x": 4,
+            "y": 5
           }
         ]
       },
@@ -5597,12 +5493,12 @@ export const GAME_LEVELS: LevelData[] = [
             "y": 5
           },
           {
-            "x": 4,
-            "y": 5
+            "x": 3,
+            "y": 4
           },
           {
-            "x": 5,
-            "y": 5
+            "x": 4,
+            "y": 4
           }
         ]
       }
@@ -6128,8 +6024,8 @@ export const GAME_LEVELS: LevelData[] = [
             "y": 7
           },
           {
-            "x": 4,
-            "y": 6
+            "x": 2,
+            "y": 7
           }
         ]
       }
@@ -6245,7 +6141,7 @@ export const GAME_LEVELS: LevelData[] = [
           },
           {
             "x": 5,
-            "y": 5
+            "y": 6
           }
         ]
       }
@@ -6848,7 +6744,7 @@ export const GAME_LEVELS: LevelData[] = [
           },
           {
             "x": 4,
-            "y": 6
+            "y": 7
           }
         ]
       },
@@ -7006,8 +6902,8 @@ export const GAME_LEVELS: LevelData[] = [
             "y": 6
           },
           {
-            "x": 5,
-            "y": 5
+            "x": 3,
+            "y": 6
           }
         ]
       },
@@ -7024,8 +6920,8 @@ export const GAME_LEVELS: LevelData[] = [
             "y": 6
           },
           {
-            "x": 3,
-            "y": 6
+            "x": 2,
+            "y": 7
           }
         ]
       }
@@ -7104,13 +7000,6 @@ export const GAME_LEVELS: LevelData[] = [
         "x": 3,
         "y": 2,
         "color": "cyan",
-        "collected": false
-      },
-      {
-        "id": "star_4",
-        "x": 1,
-        "y": 2,
-        "color": "green",
         "collected": false
       }
     ]
@@ -7271,13 +7160,6 @@ export const GAME_LEVELS: LevelData[] = [
         "y": 9,
         "color": "purple",
         "collected": false
-      },
-      {
-        "id": "star_7",
-        "x": 0,
-        "y": 9,
-        "color": "yellow",
-        "collected": false
       }
     ]
   },
@@ -7427,13 +7309,6 @@ export const GAME_LEVELS: LevelData[] = [
         "x": 7,
         "y": 10,
         "color": "cyan",
-        "collected": false
-      },
-      {
-        "id": "star_4",
-        "x": 7,
-        "y": 0,
-        "color": "green",
         "collected": false
       }
     ]
@@ -7594,20 +7469,6 @@ export const GAME_LEVELS: LevelData[] = [
         "y": 5,
         "color": "blue",
         "collected": false
-      },
-      {
-        "id": "star_7",
-        "x": 2,
-        "y": 5,
-        "color": "yellow",
-        "collected": false
-      },
-      {
-        "id": "star_8",
-        "x": 7,
-        "y": 9,
-        "color": "red",
-        "collected": false
       }
     ]
   },
@@ -7763,13 +7624,6 @@ export const GAME_LEVELS: LevelData[] = [
         "y": 11,
         "color": "cyan",
         "collected": false
-      },
-      {
-        "id": "star_4",
-        "x": 5,
-        "y": 10,
-        "color": "green",
-        "collected": false
       }
     ]
   },
@@ -7817,7 +7671,7 @@ export const GAME_LEVELS: LevelData[] = [
           },
           {
             "x": 4,
-            "y": 6
+            "y": 7
           }
         ]
       },
@@ -7830,11 +7684,11 @@ export const GAME_LEVELS: LevelData[] = [
             "y": 6
           },
           {
-            "x": 4,
+            "x": 1,
             "y": 6
           },
           {
-            "x": 5,
+            "x": 0,
             "y": 6
           }
         ]
@@ -7934,20 +7788,6 @@ export const GAME_LEVELS: LevelData[] = [
         "y": 1,
         "color": "red",
         "collected": false
-      },
-      {
-        "id": "star_7",
-        "x": 0,
-        "y": 3,
-        "color": "green",
-        "collected": false
-      },
-      {
-        "id": "star_8",
-        "x": 5,
-        "y": 7,
-        "color": "yellow",
-        "collected": false
       }
     ]
   },
@@ -7995,7 +7835,7 @@ export const GAME_LEVELS: LevelData[] = [
           },
           {
             "x": 5,
-            "y": 5
+            "y": 6
           }
         ]
       },
@@ -8103,13 +7943,6 @@ export const GAME_LEVELS: LevelData[] = [
         "y": 2,
         "color": "pink",
         "collected": false
-      },
-      {
-        "id": "star_4",
-        "x": 3,
-        "y": 8,
-        "color": "green",
-        "collected": false
       }
     ]
   },
@@ -8166,15 +7999,15 @@ export const GAME_LEVELS: LevelData[] = [
         "color": "blue",
         "body": [
           {
-            "x": 3,
-            "y": 6
-          },
-          {
             "x": 4,
             "y": 6
           },
           {
             "x": 5,
+            "y": 6
+          },
+          {
+            "x": 6,
             "y": 6
           }
         ]
@@ -8273,20 +8106,6 @@ export const GAME_LEVELS: LevelData[] = [
         "x": 3,
         "y": 9,
         "color": "blue",
-        "collected": false
-      },
-      {
-        "id": "star_7",
-        "x": 6,
-        "y": 1,
-        "color": "green",
-        "collected": false
-      },
-      {
-        "id": "star_8",
-        "x": 3,
-        "y": 5,
-        "color": "yellow",
         "collected": false
       }
     ]
@@ -8778,13 +8597,6 @@ export const GAME_LEVELS: LevelData[] = [
         "y": 9,
         "color": "cyan",
         "collected": false
-      },
-      {
-        "id": "star_7",
-        "x": 7,
-        "y": 4,
-        "color": "yellow",
-        "collected": false
       }
     ]
   },
@@ -8832,7 +8644,7 @@ export const GAME_LEVELS: LevelData[] = [
           },
           {
             "x": 4,
-            "y": 6
+            "y": 7
           }
         ]
       },
@@ -8845,11 +8657,11 @@ export const GAME_LEVELS: LevelData[] = [
             "y": 6
           },
           {
-            "x": 4,
+            "x": 1,
             "y": 6
           },
           {
-            "x": 5,
+            "x": 0,
             "y": 6
           }
         ]
@@ -8954,20 +8766,6 @@ export const GAME_LEVELS: LevelData[] = [
         "y": 1,
         "color": "red",
         "collected": false
-      },
-      {
-        "id": "star_7",
-        "x": 2,
-        "y": 9,
-        "color": "green",
-        "collected": false
-      },
-      {
-        "id": "star_8",
-        "x": 7,
-        "y": 1,
-        "color": "yellow",
-        "collected": false
       }
     ]
   },
@@ -9015,7 +8813,7 @@ export const GAME_LEVELS: LevelData[] = [
           },
           {
             "x": 5,
-            "y": 5
+            "y": 6
           }
         ]
       },
@@ -9088,11 +8886,6 @@ export const GAME_LEVELS: LevelData[] = [
         "x": 0,
         "y": 5,
         "type": "crystal"
-      },
-      {
-        "x": 6,
-        "y": 7,
-        "type": "wall"
       }
     ],
     "specialTiles": [
@@ -9148,13 +8941,6 @@ export const GAME_LEVELS: LevelData[] = [
         "x": 0,
         "y": 10,
         "color": "pink",
-        "collected": false
-      },
-      {
-        "id": "star_7",
-        "x": 5,
-        "y": 2,
-        "color": "green",
         "collected": false
       }
     ]
@@ -9212,15 +8998,15 @@ export const GAME_LEVELS: LevelData[] = [
         "color": "blue",
         "body": [
           {
-            "x": 3,
-            "y": 6
-          },
-          {
             "x": 4,
             "y": 6
           },
           {
             "x": 5,
+            "y": 6
+          },
+          {
+            "x": 6,
             "y": 6
           }
         ]
@@ -9324,20 +9110,6 @@ export const GAME_LEVELS: LevelData[] = [
         "x": 7,
         "y": 9,
         "color": "blue",
-        "collected": false
-      },
-      {
-        "id": "star_7",
-        "x": 0,
-        "y": 7,
-        "color": "green",
-        "collected": false
-      },
-      {
-        "id": "star_8",
-        "x": 5,
-        "y": 3,
-        "color": "yellow",
         "collected": false
       }
     ]
@@ -9520,13 +9292,6 @@ export const GAME_LEVELS: LevelData[] = [
         "y": 1,
         "color": "pink",
         "collected": false
-      },
-      {
-        "id": "star_7",
-        "x": 3,
-        "y": 0,
-        "color": "green",
-        "collected": false
       }
     ]
   },
@@ -9587,12 +9352,12 @@ export const GAME_LEVELS: LevelData[] = [
             "y": 6
           },
           {
-            "x": 4,
+            "x": 1,
             "y": 6
           },
           {
-            "x": 5,
-            "y": 6
+            "x": 1,
+            "y": 7
           }
         ]
       }
@@ -9695,20 +9460,6 @@ export const GAME_LEVELS: LevelData[] = [
         "x": 3,
         "y": 5,
         "color": "purple",
-        "collected": false
-      },
-      {
-        "id": "star_7",
-        "x": 6,
-        "y": 5,
-        "color": "green",
-        "collected": false
-      },
-      {
-        "id": "star_8",
-        "x": 3,
-        "y": 9,
-        "color": "blue",
         "collected": false
       }
     ]
@@ -9891,13 +9642,6 @@ export const GAME_LEVELS: LevelData[] = [
         "y": 9,
         "color": "cyan",
         "collected": false
-      },
-      {
-        "id": "star_7",
-        "x": 1,
-        "y": 10,
-        "color": "green",
-        "collected": false
       }
     ]
   },
@@ -9944,8 +9688,8 @@ export const GAME_LEVELS: LevelData[] = [
             "y": 7
           },
           {
-            "x": 4,
-            "y": 6
+            "x": 2,
+            "y": 7
           }
         ]
       },
@@ -9958,11 +9702,11 @@ export const GAME_LEVELS: LevelData[] = [
             "y": 6
           },
           {
-            "x": 4,
+            "x": 1,
             "y": 6
           },
           {
-            "x": 5,
+            "x": 0,
             "y": 6
           }
         ]
@@ -10067,20 +9811,6 @@ export const GAME_LEVELS: LevelData[] = [
         "y": 1,
         "color": "purple",
         "collected": false
-      },
-      {
-        "id": "star_7",
-        "x": 4,
-        "y": 3,
-        "color": "red",
-        "collected": false
-      },
-      {
-        "id": "star_8",
-        "x": 1,
-        "y": 7,
-        "color": "blue",
-        "collected": false
       }
     ]
   },
@@ -10128,7 +9858,7 @@ export const GAME_LEVELS: LevelData[] = [
           },
           {
             "x": 5,
-            "y": 5
+            "y": 6
           }
         ]
       },
@@ -10267,13 +9997,6 @@ export const GAME_LEVELS: LevelData[] = [
         "y": 5,
         "color": "cyan",
         "collected": false
-      },
-      {
-        "id": "star_7",
-        "x": 7,
-        "y": 8,
-        "color": "green",
-        "collected": false
       }
     ]
   },
@@ -10330,15 +10053,15 @@ export const GAME_LEVELS: LevelData[] = [
         "color": "red",
         "body": [
           {
-            "x": 3,
-            "y": 6
-          },
-          {
             "x": 4,
             "y": 6
           },
           {
             "x": 5,
+            "y": 6
+          },
+          {
+            "x": 6,
             "y": 6
           }
         ]
@@ -10447,20 +10170,6 @@ export const GAME_LEVELS: LevelData[] = [
         "x": 3,
         "y": 9,
         "color": "red",
-        "collected": false
-      },
-      {
-        "id": "star_7",
-        "x": 2,
-        "y": 1,
-        "color": "green",
-        "collected": false
-      },
-      {
-        "id": "star_8",
-        "x": 7,
-        "y": 5,
-        "color": "yellow",
         "collected": false
       }
     ]
@@ -10648,13 +10357,6 @@ export const GAME_LEVELS: LevelData[] = [
         "y": 1,
         "color": "cyan",
         "collected": false
-      },
-      {
-        "id": "star_7",
-        "x": 1,
-        "y": 8,
-        "color": "green",
-        "collected": false
       }
     ]
   },
@@ -10715,12 +10417,12 @@ export const GAME_LEVELS: LevelData[] = [
             "y": 6
           },
           {
-            "x": 4,
+            "x": 1,
             "y": 6
           },
           {
-            "x": 5,
-            "y": 6
+            "x": 1,
+            "y": 7
           }
         ]
       }
@@ -10828,20 +10530,6 @@ export const GAME_LEVELS: LevelData[] = [
         "x": 7,
         "y": 5,
         "color": "red",
-        "collected": false
-      },
-      {
-        "id": "star_7",
-        "x": 0,
-        "y": 11,
-        "color": "green",
-        "collected": false
-      },
-      {
-        "id": "star_8",
-        "x": 5,
-        "y": 3,
-        "color": "yellow",
         "collected": false
       }
     ]
@@ -11024,13 +10712,6 @@ export const GAME_LEVELS: LevelData[] = [
         "y": 9,
         "color": "pink",
         "collected": false
-      },
-      {
-        "id": "star_7",
-        "x": 3,
-        "y": 4,
-        "color": "green",
-        "collected": false
       }
     ]
   },
@@ -11077,8 +10758,8 @@ export const GAME_LEVELS: LevelData[] = [
             "y": 7
           },
           {
-            "x": 4,
-            "y": 6
+            "x": 2,
+            "y": 7
           }
         ]
       },
@@ -11091,11 +10772,11 @@ export const GAME_LEVELS: LevelData[] = [
             "y": 6
           },
           {
-            "x": 4,
+            "x": 1,
             "y": 6
           },
           {
-            "x": 5,
+            "x": 0,
             "y": 6
           }
         ]
@@ -11205,20 +10886,6 @@ export const GAME_LEVELS: LevelData[] = [
         "y": 1,
         "color": "blue",
         "collected": false
-      },
-      {
-        "id": "star_7",
-        "x": 6,
-        "y": 9,
-        "color": "green",
-        "collected": false
-      },
-      {
-        "id": "star_8",
-        "x": 7,
-        "y": 3,
-        "color": "yellow",
-        "collected": false
       }
     ]
   },
@@ -11265,8 +10932,8 @@ export const GAME_LEVELS: LevelData[] = [
             "y": 6
           },
           {
-            "x": 5,
-            "y": 5
+            "x": 3,
+            "y": 6
           }
         ]
       },
@@ -11283,8 +10950,8 @@ export const GAME_LEVELS: LevelData[] = [
             "y": 6
           },
           {
-            "x": 3,
-            "y": 6
+            "x": 2,
+            "y": 7
           }
         ]
       }
@@ -11405,13 +11072,6 @@ export const GAME_LEVELS: LevelData[] = [
         "y": 10,
         "color": "cyan",
         "collected": false
-      },
-      {
-        "id": "star_7",
-        "x": 1,
-        "y": 2,
-        "color": "yellow",
-        "collected": false
       }
     ]
   },
@@ -11468,15 +11128,15 @@ export const GAME_LEVELS: LevelData[] = [
         "color": "blue",
         "body": [
           {
-            "x": 3,
-            "y": 6
-          },
-          {
             "x": 4,
             "y": 6
           },
           {
             "x": 5,
+            "y": 6
+          },
+          {
+            "x": 6,
             "y": 6
           }
         ]
@@ -11590,20 +11250,6 @@ export const GAME_LEVELS: LevelData[] = [
         "x": 7,
         "y": 9,
         "color": "blue",
-        "collected": false
-      },
-      {
-        "id": "star_7",
-        "x": 0,
-        "y": 9,
-        "color": "yellow",
-        "collected": false
-      },
-      {
-        "id": "star_8",
-        "x": 1,
-        "y": 11,
-        "color": "red",
         "collected": false
       }
     ]
@@ -11796,13 +11442,6 @@ export const GAME_LEVELS: LevelData[] = [
         "y": 1,
         "color": "pink",
         "collected": false
-      },
-      {
-        "id": "star_7",
-        "x": 7,
-        "y": 0,
-        "color": "green",
-        "collected": false
       }
     ]
   },
@@ -11863,12 +11502,12 @@ export const GAME_LEVELS: LevelData[] = [
             "y": 6
           },
           {
-            "x": 4,
+            "x": 1,
             "y": 6
           },
           {
-            "x": 5,
-            "y": 6
+            "x": 1,
+            "y": 7
           }
         ]
       }
@@ -11982,20 +11621,6 @@ export const GAME_LEVELS: LevelData[] = [
         "y": 5,
         "color": "blue",
         "collected": false
-      },
-      {
-        "id": "star_7",
-        "x": 2,
-        "y": 5,
-        "color": "green",
-        "collected": false
-      },
-      {
-        "id": "star_8",
-        "x": 7,
-        "y": 9,
-        "color": "yellow",
-        "collected": false
       }
     ]
   },
@@ -12071,10 +11696,6 @@ export const GAME_LEVELS: LevelData[] = [
         "body": [
           {
             "x": 6,
-            "y": 5
-          },
-          {
-            "x": 5,
             "y": 5
           },
           {
@@ -12220,13 +11841,6 @@ export const GAME_LEVELS: LevelData[] = [
         "y": 11,
         "color": "blue",
         "collected": false
-      },
-      {
-        "id": "star_9",
-        "x": 5,
-        "y": 10,
-        "color": "green",
-        "collected": false
       }
     ]
   },
@@ -12274,7 +11888,7 @@ export const GAME_LEVELS: LevelData[] = [
           },
           {
             "x": 4,
-            "y": 6
+            "y": 7
           }
         ]
       },
@@ -12287,11 +11901,11 @@ export const GAME_LEVELS: LevelData[] = [
             "y": 6
           },
           {
-            "x": 4,
+            "x": 1,
             "y": 6
           },
           {
-            "x": 5,
+            "x": 0,
             "y": 6
           }
         ]
@@ -12406,20 +12020,6 @@ export const GAME_LEVELS: LevelData[] = [
         "y": 1,
         "color": "blue",
         "collected": false
-      },
-      {
-        "id": "star_7",
-        "x": 0,
-        "y": 3,
-        "color": "green",
-        "collected": false
-      },
-      {
-        "id": "star_8",
-        "x": 5,
-        "y": 7,
-        "color": "red",
-        "collected": false
       }
     ]
   },
@@ -12466,8 +12066,8 @@ export const GAME_LEVELS: LevelData[] = [
             "y": 6
           },
           {
-            "x": 5,
-            "y": 5
+            "x": 3,
+            "y": 6
           }
         ]
       },
@@ -12484,8 +12084,8 @@ export const GAME_LEVELS: LevelData[] = [
             "y": 6
           },
           {
-            "x": 3,
-            "y": 6
+            "x": 2,
+            "y": 7
           }
         ]
       },
@@ -12498,11 +12098,7 @@ export const GAME_LEVELS: LevelData[] = [
             "y": 5
           },
           {
-            "x": 6,
-            "y": 5
-          },
-          {
-            "x": 5,
+            "x": 7,
             "y": 5
           }
         ]
@@ -12649,13 +12245,6 @@ export const GAME_LEVELS: LevelData[] = [
         "y": 0,
         "color": "blue",
         "collected": false
-      },
-      {
-        "id": "star_9",
-        "x": 3,
-        "y": 8,
-        "color": "green",
-        "collected": false
       }
     ]
   },
@@ -12712,15 +12301,15 @@ export const GAME_LEVELS: LevelData[] = [
         "color": "purple",
         "body": [
           {
-            "x": 3,
-            "y": 6
-          },
-          {
             "x": 4,
             "y": 6
           },
           {
             "x": 5,
+            "y": 6
+          },
+          {
+            "x": 6,
             "y": 6
           }
         ]
@@ -12835,20 +12424,6 @@ export const GAME_LEVELS: LevelData[] = [
         "y": 9,
         "color": "purple",
         "collected": false
-      },
-      {
-        "id": "star_7",
-        "x": 6,
-        "y": 1,
-        "color": "yellow",
-        "collected": false
-      },
-      {
-        "id": "star_8",
-        "x": 3,
-        "y": 5,
-        "color": "blue",
-        "collected": false
       }
     ]
   },
@@ -12924,10 +12499,6 @@ export const GAME_LEVELS: LevelData[] = [
         "body": [
           {
             "x": 6,
-            "y": 5
-          },
-          {
-            "x": 5,
             "y": 5
           },
           {
@@ -13078,13 +12649,6 @@ export const GAME_LEVELS: LevelData[] = [
         "y": 3,
         "color": "pink",
         "collected": false
-      },
-      {
-        "id": "star_9",
-        "x": 5,
-        "y": 8,
-        "color": "green",
-        "collected": false
       }
     ]
   },
@@ -13145,12 +12709,12 @@ export const GAME_LEVELS: LevelData[] = [
             "y": 6
           },
           {
-            "x": 4,
+            "x": 1,
             "y": 6
           },
           {
-            "x": 5,
-            "y": 6
+            "x": 1,
+            "y": 7
           }
         ]
       }
@@ -13269,20 +12833,6 @@ export const GAME_LEVELS: LevelData[] = [
         "y": 5,
         "color": "blue",
         "collected": false
-      },
-      {
-        "id": "star_7",
-        "x": 4,
-        "y": 11,
-        "color": "yellow",
-        "collected": false
-      },
-      {
-        "id": "star_8",
-        "x": 1,
-        "y": 3,
-        "color": "red",
-        "collected": false
       }
     ]
   },
@@ -13358,10 +12908,6 @@ export const GAME_LEVELS: LevelData[] = [
         "body": [
           {
             "x": 6,
-            "y": 5
-          },
-          {
-            "x": 5,
             "y": 5
           },
           {
@@ -13505,13 +13051,6 @@ export const GAME_LEVELS: LevelData[] = [
         "y": 11,
         "color": "green",
         "collected": false
-      },
-      {
-        "id": "star_9",
-        "x": 7,
-        "y": 4,
-        "color": "yellow",
-        "collected": false
       }
     ]
   },
@@ -13559,7 +13098,7 @@ export const GAME_LEVELS: LevelData[] = [
           },
           {
             "x": 4,
-            "y": 6
+            "y": 7
           }
         ]
       },
@@ -13572,11 +13111,11 @@ export const GAME_LEVELS: LevelData[] = [
             "y": 6
           },
           {
-            "x": 4,
+            "x": 1,
             "y": 6
           },
           {
-            "x": 5,
+            "x": 0,
             "y": 6
           }
         ]
@@ -13696,20 +13235,6 @@ export const GAME_LEVELS: LevelData[] = [
         "y": 1,
         "color": "red",
         "collected": false
-      },
-      {
-        "id": "star_7",
-        "x": 2,
-        "y": 9,
-        "color": "green",
-        "collected": false
-      },
-      {
-        "id": "star_8",
-        "x": 7,
-        "y": 1,
-        "color": "yellow",
-        "collected": false
       }
     ]
   },
@@ -13757,7 +13282,7 @@ export const GAME_LEVELS: LevelData[] = [
           },
           {
             "x": 5,
-            "y": 5
+            "y": 6
           }
         ]
       },
@@ -13788,11 +13313,7 @@ export const GAME_LEVELS: LevelData[] = [
             "y": 5
           },
           {
-            "x": 6,
-            "y": 5
-          },
-          {
-            "x": 5,
+            "x": 7,
             "y": 5
           }
         ]
@@ -13944,13 +13465,6 @@ export const GAME_LEVELS: LevelData[] = [
         "y": 7,
         "color": "blue",
         "collected": false
-      },
-      {
-        "id": "star_9",
-        "x": 5,
-        "y": 2,
-        "color": "green",
-        "collected": false
       }
     ]
   },
@@ -14007,15 +13521,15 @@ export const GAME_LEVELS: LevelData[] = [
         "color": "red",
         "body": [
           {
-            "x": 3,
-            "y": 6
-          },
-          {
             "x": 4,
             "y": 6
           },
           {
             "x": 5,
+            "y": 6
+          },
+          {
+            "x": 6,
             "y": 6
           }
         ]
@@ -14135,20 +13649,6 @@ export const GAME_LEVELS: LevelData[] = [
         "y": 9,
         "color": "red",
         "collected": false
-      },
-      {
-        "id": "star_7",
-        "x": 0,
-        "y": 7,
-        "color": "green",
-        "collected": false
-      },
-      {
-        "id": "star_8",
-        "x": 5,
-        "y": 3,
-        "color": "yellow",
-        "collected": false
       }
     ]
   },
@@ -14224,10 +13724,6 @@ export const GAME_LEVELS: LevelData[] = [
         "body": [
           {
             "x": 6,
-            "y": 5
-          },
-          {
-            "x": 5,
             "y": 5
           },
           {
@@ -14378,13 +13874,6 @@ export const GAME_LEVELS: LevelData[] = [
         "y": 3,
         "color": "blue",
         "collected": false
-      },
-      {
-        "id": "star_9",
-        "x": 3,
-        "y": 0,
-        "color": "yellow",
-        "collected": false
       }
     ]
   },
@@ -14445,12 +13934,12 @@ export const GAME_LEVELS: LevelData[] = [
             "y": 6
           },
           {
-            "x": 4,
+            "x": 1,
             "y": 6
           },
           {
-            "x": 5,
-            "y": 6
+            "x": 1,
+            "y": 7
           }
         ]
       }
@@ -14569,20 +14058,6 @@ export const GAME_LEVELS: LevelData[] = [
         "y": 5,
         "color": "blue",
         "collected": false
-      },
-      {
-        "id": "star_7",
-        "x": 6,
-        "y": 5,
-        "color": "green",
-        "collected": false
-      },
-      {
-        "id": "star_8",
-        "x": 3,
-        "y": 9,
-        "color": "yellow",
-        "collected": false
       }
     ]
   },
@@ -14658,10 +14133,6 @@ export const GAME_LEVELS: LevelData[] = [
         "body": [
           {
             "x": 6,
-            "y": 5
-          },
-          {
-            "x": 5,
             "y": 5
           },
           {
@@ -14812,13 +14283,6 @@ export const GAME_LEVELS: LevelData[] = [
         "y": 11,
         "color": "blue",
         "collected": false
-      },
-      {
-        "id": "star_9",
-        "x": 1,
-        "y": 10,
-        "color": "green",
-        "collected": false
       }
     ]
   },
@@ -14865,8 +14329,8 @@ export const GAME_LEVELS: LevelData[] = [
             "y": 7
           },
           {
-            "x": 4,
-            "y": 6
+            "x": 2,
+            "y": 7
           }
         ]
       },
@@ -14879,11 +14343,11 @@ export const GAME_LEVELS: LevelData[] = [
             "y": 6
           },
           {
-            "x": 4,
+            "x": 1,
             "y": 6
           },
           {
-            "x": 5,
+            "x": 0,
             "y": 6
           }
         ]
@@ -15003,20 +14467,6 @@ export const GAME_LEVELS: LevelData[] = [
         "y": 1,
         "color": "purple",
         "collected": false
-      },
-      {
-        "id": "star_7",
-        "x": 4,
-        "y": 3,
-        "color": "yellow",
-        "collected": false
-      },
-      {
-        "id": "star_8",
-        "x": 1,
-        "y": 7,
-        "color": "red",
-        "collected": false
       }
     ]
   },
@@ -15064,7 +14514,7 @@ export const GAME_LEVELS: LevelData[] = [
           },
           {
             "x": 5,
-            "y": 5
+            "y": 6
           }
         ]
       },
@@ -15213,13 +14663,6 @@ export const GAME_LEVELS: LevelData[] = [
         "y": 5,
         "color": "cyan",
         "collected": false
-      },
-      {
-        "id": "star_7",
-        "x": 7,
-        "y": 8,
-        "color": "green",
-        "collected": false
       }
     ]
   },
@@ -15276,15 +14719,15 @@ export const GAME_LEVELS: LevelData[] = [
         "color": "blue",
         "body": [
           {
-            "x": 3,
-            "y": 6
-          },
-          {
             "x": 4,
             "y": 6
           },
           {
             "x": 5,
+            "y": 6
+          },
+          {
+            "x": 6,
             "y": 6
           }
         ]
@@ -15441,20 +14884,6 @@ export const GAME_LEVELS: LevelData[] = [
         "x": 6,
         "y": 11,
         "color": "purple",
-        "collected": false
-      },
-      {
-        "id": "star_9",
-        "x": 2,
-        "y": 1,
-        "color": "green",
-        "collected": false
-      },
-      {
-        "id": "star_10",
-        "x": 7,
-        "y": 5,
-        "color": "red",
         "collected": false
       }
     ]
@@ -15652,13 +15081,6 @@ export const GAME_LEVELS: LevelData[] = [
         "y": 1,
         "color": "cyan",
         "collected": false
-      },
-      {
-        "id": "star_7",
-        "x": 1,
-        "y": 8,
-        "color": "green",
-        "collected": false
       }
     ]
   },
@@ -15719,12 +15141,12 @@ export const GAME_LEVELS: LevelData[] = [
             "y": 6
           },
           {
-            "x": 4,
+            "x": 1,
             "y": 6
           },
           {
-            "x": 5,
-            "y": 6
+            "x": 1,
+            "y": 7
           }
         ]
       }
@@ -15843,20 +15265,6 @@ export const GAME_LEVELS: LevelData[] = [
         "y": 5,
         "color": "blue",
         "collected": false
-      },
-      {
-        "id": "star_7",
-        "x": 0,
-        "y": 11,
-        "color": "yellow",
-        "collected": false
-      },
-      {
-        "id": "star_8",
-        "x": 5,
-        "y": 3,
-        "color": "red",
-        "collected": false
       }
     ]
   },
@@ -15932,10 +15340,6 @@ export const GAME_LEVELS: LevelData[] = [
         "body": [
           {
             "x": 6,
-            "y": 5
-          },
-          {
-            "x": 5,
             "y": 5
           },
           {
@@ -16079,13 +15483,6 @@ export const GAME_LEVELS: LevelData[] = [
         "y": 11,
         "color": "yellow",
         "collected": false
-      },
-      {
-        "id": "star_9",
-        "x": 3,
-        "y": 4,
-        "color": "green",
-        "collected": false
       }
     ]
   },
@@ -16132,8 +15529,8 @@ export const GAME_LEVELS: LevelData[] = [
             "y": 7
           },
           {
-            "x": 4,
-            "y": 6
+            "x": 2,
+            "y": 7
           }
         ]
       },
@@ -16146,11 +15543,11 @@ export const GAME_LEVELS: LevelData[] = [
             "y": 6
           },
           {
-            "x": 4,
+            "x": 1,
             "y": 6
           },
           {
-            "x": 5,
+            "x": 0,
             "y": 6
           }
         ]
@@ -16270,20 +15667,6 @@ export const GAME_LEVELS: LevelData[] = [
         "y": 1,
         "color": "blue",
         "collected": false
-      },
-      {
-        "id": "star_7",
-        "x": 6,
-        "y": 9,
-        "color": "green",
-        "collected": false
-      },
-      {
-        "id": "star_8",
-        "x": 7,
-        "y": 3,
-        "color": "yellow",
-        "collected": false
       }
     ]
   },
@@ -16330,8 +15713,8 @@ export const GAME_LEVELS: LevelData[] = [
             "y": 6
           },
           {
-            "x": 5,
-            "y": 5
+            "x": 3,
+            "y": 6
           }
         ]
       },
@@ -16348,8 +15731,8 @@ export const GAME_LEVELS: LevelData[] = [
             "y": 6
           },
           {
-            "x": 3,
-            "y": 6
+            "x": 2,
+            "y": 5
           }
         ]
       }
@@ -16480,13 +15863,6 @@ export const GAME_LEVELS: LevelData[] = [
         "y": 10,
         "color": "cyan",
         "collected": false
-      },
-      {
-        "id": "star_7",
-        "x": 1,
-        "y": 2,
-        "color": "green",
-        "collected": false
       }
     ]
   },
@@ -16543,15 +15919,15 @@ export const GAME_LEVELS: LevelData[] = [
         "color": "blue",
         "body": [
           {
-            "x": 3,
-            "y": 6
-          },
-          {
             "x": 4,
             "y": 6
           },
           {
             "x": 5,
+            "y": 6
+          },
+          {
+            "x": 6,
             "y": 6
           }
         ]
@@ -16708,20 +16084,6 @@ export const GAME_LEVELS: LevelData[] = [
         "x": 2,
         "y": 11,
         "color": "yellow",
-        "collected": false
-      },
-      {
-        "id": "star_9",
-        "x": 0,
-        "y": 9,
-        "color": "red",
-        "collected": false
-      },
-      {
-        "id": "star_10",
-        "x": 1,
-        "y": 11,
-        "color": "purple",
         "collected": false
       }
     ]
@@ -16918,13 +16280,6 @@ export const GAME_LEVELS: LevelData[] = [
         "x": 1,
         "y": 1,
         "color": "cyan",
-        "collected": false
-      },
-      {
-        "id": "star_7",
-        "x": 7,
-        "y": 0,
-        "color": "green",
         "collected": false
       }
     ]

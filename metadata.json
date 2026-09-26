@@ -1,0 +1,6 @@
+{
+  "name": "Color Crawl",
+  "description": "Original mobile puzzle game with cute growing crawlers, colored portals, and clever grid navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

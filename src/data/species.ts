@@ -1,0 +1,168 @@
+import { CrawlerColor, SpeciesInfo, CosmeticSkin } from '../types/game';
+
+export const CRAWLER_SPECIES: Record<CrawlerColor, SpeciesInfo> = {
+  red: {
+    color: 'red',
+    name: 'Ruby Snake',
+    title: 'The Crimson Spark',
+    description: 'Brimming with fiery enthusiasm, Ruby slithers across warm stone tiles.',
+    themeHue: '#ef4444',
+    accentColor: '#fca5a5',
+    darkRingColor: '#b91c1c',
+    glowColor: 'rgba(239, 68, 68, 0.55)',
+    bgRgba: 'rgba(239, 68, 68, 0.12)',
+  },
+  blue: {
+    color: 'blue',
+    name: 'Ocean Snake',
+    title: 'The Tidal Slither',
+    description: 'Calm and steady, Ocean glides with wave-like grace toward deep sapphire holes.',
+    themeHue: '#2563eb',
+    accentColor: '#93c5fd',
+    darkRingColor: '#1d4ed8',
+    glowColor: 'rgba(37, 99, 235, 0.55)',
+    bgRgba: 'rgba(37, 99, 235, 0.12)',
+  },
+  yellow: {
+    color: 'yellow',
+    name: 'Sun Snake',
+    title: 'The Solar Sprout',
+    description: 'Radiating cheerful daylight, Sun energizes nearby tiles with its golden scales.',
+    themeHue: '#f59e0b',
+    accentColor: '#fde68a',
+    darkRingColor: '#d97706',
+    glowColor: 'rgba(245, 158, 11, 0.55)',
+    bgRgba: 'rgba(245, 158, 11, 0.12)',
+  },
+  green: {
+    color: 'green',
+    name: 'Leaf Snake',
+    title: 'The Emerald Explorer',
+    description: 'A glossy forest explorer that navigates through winding grassy mazes.',
+    themeHue: '#10b981',
+    accentColor: '#a7f3d0',
+    darkRingColor: '#047857',
+    glowColor: 'rgba(16, 185, 129, 0.55)',
+    bgRgba: 'rgba(16, 185, 129, 0.12)',
+  },
+  purple: {
+    color: 'purple',
+    name: 'Violet Snake',
+    title: 'The Mystic Dreamer',
+    description: 'Mysterious and thoughtful, Violet hums soft resonant frequencies.',
+    themeHue: '#8b5cf6',
+    accentColor: '#ddd6fe',
+    darkRingColor: '#6d28d9',
+    glowColor: 'rgba(139, 92, 246, 0.55)',
+    bgRgba: 'rgba(139, 92, 246, 0.12)',
+  },
+  pink: {
+    color: 'pink',
+    name: 'Rose Snake',
+    title: 'The Blossom Guide',
+    description: 'Adorned with sweet pastel flourishes, Rose spreads pure joy wherever it crawls.',
+    themeHue: '#ec4899',
+    accentColor: '#fbcfe8',
+    darkRingColor: '#be185d',
+    glowColor: 'rgba(236, 72, 153, 0.55)',
+    bgRgba: 'rgba(236, 72, 153, 0.12)',
+  },
+  orange: {
+    color: 'orange',
+    name: 'Amber Snake',
+    title: 'The Twilight Scout',
+    description: 'Swift and inquisitive, Amber leaves subtle trails of glowing embers.',
+    themeHue: '#f97316',
+    accentColor: '#fed7aa',
+    darkRingColor: '#c2410c',
+    glowColor: 'rgba(249, 115, 22, 0.55)',
+    bgRgba: 'rgba(249, 115, 22, 0.12)',
+  },
+  cyan: {
+    color: 'cyan',
+    name: 'Sky Snake',
+    title: 'The Zephyr Sprite',
+    description: 'Light as a summer breeze, Sky loves soaring near sparkling frost crystals.',
+    themeHue: '#06b6d4',
+    accentColor: '#a5f3fc',
+    darkRingColor: '#0e7490',
+    glowColor: 'rgba(6, 182, 212, 0.55)',
+    bgRgba: 'rgba(6, 182, 212, 0.12)',
+  },
+};
+
+export interface SkinDetails {
+  id: CosmeticSkin;
+  name: string;
+  description: string;
+  unlockStars: number;
+  costCoins: number;
+  gradient: string;
+  patternClass: string;
+}
+
+export const COSMETIC_SKINS: SkinDetails[] = [
+  {
+    id: 'classic',
+    name: 'Classic 3D Gloss',
+    description: 'Glossy 3D cylindrical body with vibrant specular shine.',
+    unlockStars: 0,
+    costCoins: 0,
+    gradient: 'from-amber-400 to-rose-500',
+    patternClass: 'skin-classic',
+  },
+  {
+    id: 'rainbow',
+    name: 'Rainbow Prism',
+    description: 'Prismatic shifting gradients on every glossy turn.',
+    unlockStars: 10,
+    costCoins: 150,
+    gradient: 'from-red-500 via-yellow-400 via-green-400 via-blue-500 to-purple-500',
+    patternClass: 'skin-rainbow',
+  },
+  {
+    id: 'galaxy',
+    name: 'Cosmic Nebula',
+    description: 'Deep starlight shimmer and midnight violet swirls.',
+    unlockStars: 25,
+    costCoins: 300,
+    gradient: 'from-indigo-900 via-purple-600 to-pink-500',
+    patternClass: 'skin-galaxy',
+  },
+  {
+    id: 'candy',
+    name: 'Sugar Pop',
+    description: 'Sweet pastel swirls like delicious spun confections.',
+    unlockStars: 40,
+    costCoins: 500,
+    gradient: 'from-pink-400 via-yellow-200 to-cyan-300',
+    patternClass: 'skin-candy',
+  },
+  {
+    id: 'jungle',
+    name: 'Deep Canopy',
+    description: 'Emerald and gold foliage spots for wild explorers.',
+    unlockStars: 60,
+    costCoins: 750,
+    gradient: 'from-emerald-700 via-lime-500 to-yellow-600',
+    patternClass: 'skin-jungle',
+  },
+  {
+    id: 'lava',
+    name: 'Magma Core',
+    description: 'Molten cracks pulsing with deep subterranean fire.',
+    unlockStars: 80,
+    costCoins: 1000,
+    gradient: 'from-red-600 via-orange-500 to-yellow-400',
+    patternClass: 'skin-lava',
+  },
+  {
+    id: 'ice',
+    name: 'Glacial Aurora',
+    description: 'Frosted diamond scales that glisten in polar night.',
+    unlockStars: 100,
+    costCoins: 1250,
+    gradient: 'from-cyan-300 via-blue-400 to-indigo-600',
+    patternClass: 'skin-ice',
+  },
+];
